@@ -5,5 +5,5 @@ const homeRoutes = require('./routes/home');
 const bodyParser = require('body-parser');
 app.use(bodyParser.json());
 app.use(homeRoutes);
-app.listen(8081);
+app.listen(6969);
 console.log("server running 8081"); 
